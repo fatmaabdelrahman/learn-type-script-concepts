@@ -1,0 +1,10 @@
+-noImplicitAny
+-noUnusedLocals
+-noUnusedParameters
+-noImplicitReturns
+- optional parameter 
+- Rest parameter
+- TYpe Aliases 
+- Advanced  TYpe Aliases
+
+-- interfaces and abstract 
